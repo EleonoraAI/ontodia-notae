@@ -1,6 +1,6 @@
 {
   "name": "notae-ontodia",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Ontodia Library, customized for project NOTAE",
   "repository": {
     "type": "git",
@@ -16,9 +16,9 @@
   "author": "ontodia.org (http://ontodia.org)",
   "license": "LGPL-2.1",
   "bugs": {
-    "url": "https://github.com/sputniq-space/ontodia/issues"
+    "url": "https://EleonoraAI/ontodia-notae/issues"
   },
-  "homepage": "https://github.com/sputniq-space/ontodia#readme",
+  "homepage": "https://github.com/EleonoraAI/ontodia-notae/#readme",
   "scripts": {
     "demo": "webpack-dev-server --port 10444 --config webpack.demo.config.js",
     "build": "npm run _webpack && npm run typings",
@@ -78,6 +78,7 @@
   "resolutions": {
     "@types/react": "15.6.9"
   },
+  
   "main": "dist/ontodia.js",
   "typings": "dist/ontodia.d.ts"
 }
