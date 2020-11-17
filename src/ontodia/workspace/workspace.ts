@@ -29,7 +29,7 @@ import { WorkspaceEventHandler, WorkspaceEventKey } from './workspaceContext';
 import { forceLayout, applyLayout } from '../viewUtils/layout';
 
 const ONTODIA_WEBSITE = 'http://www.notae-project.eu/'; //NOTAE_WEBSITE
-const ONTODIA_LOGO_SVG = require<string>('../../../images/ontodia-logo.svg');
+const ONTODIA_LOGO_SVG = require<string>('../../../images/logo.svg');
 
 export interface WorkspaceProps {
     /** Saves diagram layout (position and state of elements and links). */
