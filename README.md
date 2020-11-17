@@ -1,1 +1,1 @@
-Ontodia library customizer for NOTAE project
+Ontodia library customized for NOTAE project
