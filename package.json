@@ -1,7 +1,7 @@
 {
-  "name": "arca-ontodia",
+  "name": "notae-ontodia",
   "version": "0.9.39",
-  "description": "Ontodia Library, customized for project ARCA",
+  "description": "Ontodia Library, customized for project NOTAE",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eleonoraai/ontodia.git"
