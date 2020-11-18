@@ -1,11 +1,12 @@
 {
   "name": "notae-ontodia",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Ontodia Library, customized for project NOTAE",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eleonoraai/ontodia-notae.git"
   },
+  
   "keywords": [
     "owl",
     "graph",
