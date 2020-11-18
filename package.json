@@ -1,6 +1,6 @@
 {
   "name": "notae-ontodia",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "description": "Ontodia Library, customized for project NOTAE",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "author": "ontodia.org (http://ontodia.org)",
   "license": "LGPL-2.1",
   "bugs": {
-    "url": "https://EleonoraAI/ontodia-notae/issues"
+    "url": "https:/github.com/EleonoraAI/ontodia-notae/issues"
   },
   "homepage": "https://github.com/EleonoraAI/ontodia-notae/#readme",
   "scripts": {
@@ -78,6 +78,7 @@
   "resolutions": {
     "@types/react": "15.6.9"
   },
+
   
   "main": "dist/ontodia.js",
   "typings": "dist/ontodia.d.ts"
